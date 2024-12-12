@@ -8,7 +8,7 @@ class AppTheme {
       primarySwatch: Colors.blue,
       cardTheme: CardTheme(
         elevation: 4,
-        margin: EdgeInsets.all(8),
+        margin: const EdgeInsets.all(8),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12),
         ),
